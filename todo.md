@@ -1,0 +1,11 @@
+- [ ] Research BERT for text similarity
+- [ ] Research cosine similarity for text comparison
+- [ ] Research custom rubric systems for essay grading
+- [ ] Design system architecture
+- [ ] Set up development environment and install dependencies
+- [ ] Implement BERT-based text similarity engine
+- [ ] Develop custom rubric system and grading logic
+- [ ] Create web interface for the grading system
+- [ ] Test system with sample essays and demonstrate functionality
+- [ ] Deploy system and deliver final results to user
+
